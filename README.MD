@@ -1,6 +1,9 @@
 # Midnight Lizard
 ![Wikipedia example](/img/screenshots/wikipedia-orion-nebula.png?raw=true "Wikipedia example")
 
+[![Backers on Open Collective](https://opencollective.com/midnight-lizard/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/midnight-lizard/sponsors/badge.svg)](#sponsors) 
+ 
 **Midnight Lizard** is a Google **Chrome**™ and Mozilla **Firefox**™ extension that changes web page colors, brightness and contrast to increase **readability** and brings dark **night mode** to all websites.
 
 Midnight Lizard will help you to customize an appearance of the entire internet in order to make it easier, more fun, productive and healthier to use.
@@ -44,3 +47,22 @@ Adjust the web to your vision!
 ## CONTRIBUTING
   🌍 [Help translate Midnight Lizard into other languages](https://translate.midnight-lizard.org) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/midnight-lizard/localized.svg)](https://translate.midnight-lizard.org)  
   🐛 [Found a bug or has a new feature proposal?](https://github.com/Midnight-Lizard/Midnight-Lizard/issues/new)  
+## CREDITS
+
+### Contributors
+
+This project exists thanks to all the people who contribute. 
+
+<a href="graphs/contributors"><img src="https://opencollective.com/midnight-lizard/contributors.svg?width=890&button=false" /></a>
+
+### Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/midnight-lizard#backer)]
+
+<a href="https://opencollective.com/midnight-lizard#backers" target="_blank"><img src="https://opencollective.com/midnight-lizard/backers.svg?width=890"></a>
+
+### Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/midnight-lizard#sponsor)]
+
+<a href="https://opencollective.com/midnight-lizard/sponsor/0/website" target="_blank"><img src="https://opencollective.com/midnight-lizard/sponsor/0/avatar.svg"></a>
